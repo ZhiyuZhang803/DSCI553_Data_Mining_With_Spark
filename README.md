@@ -1,5 +1,6 @@
 # Data_Mining_With_Spark
 
-This repo contains data mining algorithms implemented with Spark.
+Introduction: This repo contains data mining algorithms implemented with PySpark.
 
-This repo will update before Dec. 20th.
+This repo will fully update before Dec. 20th.
+
