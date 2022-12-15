@@ -3,7 +3,6 @@
 Introduction: This repo contains data mining algorithms implemented with PySpark. 
 (Homework Assignments of DSCI553 DATA MINING - Instructor: Prof. Wei-Min Shen)
 
-This repo will fully update before Dec. 20th.
 
 | Assignments | Topic | Programming Language |    Algorithms    | Grades |
 | ----------- | ----- | -------------------- | ----------------- | ----- |
