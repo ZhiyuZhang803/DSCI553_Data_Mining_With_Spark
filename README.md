@@ -3,7 +3,9 @@
 - Introduction: This repo contains data mining algorithms implemented with PySpark. 
 - Homework Assignments of DSCI553 DATA MINING - Instructor: Prof. Wei-Min Shen
 
-
+### Special Notes
+- If you want to be more familiar with in-class quiz, please contact me (via email) with more information.
+- More detailed explanation of codes and corresponding algorithms will be released later.
 ### Contents
 | Assignments | Topic | Programming Language |    Algorithms    | Grades |
 | ----------- | ----- | -------------------- | ----------------- | ----- |
@@ -25,6 +27,3 @@
 |      Final Grade      | Final Weighted Grade of DSCI553 Data Mining | 100% | 100 (including Bonus) |
 
 
-### Special Notes
-- If you want to be more familiar with in-class quiz, please contact me (via email) with more information.
-- More detailed explanation of codes and corresponding algorithms will be released later.
