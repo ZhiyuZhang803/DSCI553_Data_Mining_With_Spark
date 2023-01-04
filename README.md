@@ -5,7 +5,7 @@
 
 ### Special Notes
 - If you want to be more familiar with in-class quiz, please contact me (via email) with more information.
-- More detailed explanation of codes and corresponding algorithms will be released later.
+- More detailed explanation of codes and corresponding algorithms will be released later. (Version 1: English, Version 2: Chinese)
 ### Contents
 | Assignments | Topic | Programming Language |    Algorithms    | Grades |
 | ----------- | ----- | -------------------- | ----------------- | ----- |
