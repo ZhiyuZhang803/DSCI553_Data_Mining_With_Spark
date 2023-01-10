@@ -24,6 +24,6 @@
 |      Inclass Quiz      | 11 Inclass Quiz Test the Understanding of Class Contents | 30% | 29 |
 |      Final Exam      | Comprehensive Exam Test the Contents Through the Whole Semester | 20% | 18.5 |
 |      Competition      | Recommender System Design to Find the Lowest RMSE | 8%(+Maximum 6% Bonus) | 8+6 (1st Place/180 Competitors) |
-|      Final Grade      | Final Weighted Grade of DSCI553 Data Mining | 100% | 100 (including Bonus) |
+|      Final Grade      | Final Weighted Grade of DSCI553 Data Mining | 100% | 103.5 (including Bonus) |
 
 
